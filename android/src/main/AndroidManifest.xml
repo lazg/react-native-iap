@@ -1,5 +1,3 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          android:exported="true"
-          package="com.dooboolab.rniap">
-
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:exported="true">
+namespace = "com.dooboolab.rniap"
 </manifest>
